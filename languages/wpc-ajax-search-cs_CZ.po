@@ -1,0 +1,333 @@
+# Copyright (C) 2021 WPClever
+# This file is distributed under the same license as the WPC AJAX Search for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC AJAX Search for WooCommerce 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-ajax-search\n"
+"Last-Translator: Jan Baďura\n"
+"Language-Team: Čeština\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-27T17:34:00+00:00\n"
+"PO-Revision-Date: 2022-05-15 14:22+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wpc-ajax-search\n"
+"Language: cs-CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#. Plugin Name of the plugin
+msgid "WPC AJAX Search for WooCommerce"
+msgstr "WPC AJAX Search pro WooCommerce"
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net"
+
+#. Description of the plugin
+msgid "An interaction search popup for WooCommerce."
+msgstr "Vyskakovací okno pro vyhledávání pro WooCommerce."
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr "WPClever"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#: wpc-ajax-search.php:116 wpc-ajax-search.php:170
+msgid "Settings"
+msgstr "Nastavení"
+
+#: wpc-ajax-search.php:132 wpc-ajax-search.php:173
+msgid "Support"
+msgstr "Podpora"
+
+#: wpc-ajax-search.php:142 wpc-ajax-search.php:153
+msgid "WPC AJAX Search"
+msgstr "WPC AJAX Search"
+
+#: wpc-ajax-search.php:142
+msgid "AJAX Search"
+msgstr "AJAX Search"
+
+#: wpc-ajax-search.php:156
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Děkujeme, že používáte náš plugin! Pokud jste spokojeni, odměňte jej prosím "
+"plným pětihvězdičkovým %s hodnocením."
+
+#: wpc-ajax-search.php:159
+msgid "Reviews"
+msgstr "Hodnocení"
+
+#: wpc-ajax-search.php:161
+msgid "Changelog"
+msgstr "Seznam změn"
+
+#: wpc-ajax-search.php:163
+msgid "Discussion"
+msgstr "Diskuze"
+
+#: wpc-ajax-search.php:183
+msgid "General"
+msgstr "Obecné"
+
+#: wpc-ajax-search.php:184
+msgid "General settings."
+msgstr "Obecné nastavení"
+
+#: wpc-ajax-search.php:187
+msgid "Auto show"
+msgstr "Tlačítko class nebo ID"
+
+#: wpc-ajax-search.php:192 wpc-ajax-search.php:266 wpc-ajax-search.php:334 
+#: wpc-ajax-search.php:351 wpc-ajax-search.php:368 wpc-ajax-search.php:381 
+#: wpc-ajax-search.php:453 wpc-ajax-search.php:476
+msgid "Yes"
+msgstr "Ano"
+
+#: wpc-ajax-search.php:196 wpc-ajax-search.php:270 wpc-ajax-search.php:321 
+#: wpc-ajax-search.php:338 wpc-ajax-search.php:355 wpc-ajax-search.php:372 
+#: wpc-ajax-search.php:382 wpc-ajax-search.php:457 wpc-ajax-search.php:480 
+#: wpc-ajax-search.php:504
+msgid "No"
+msgstr "Ne"
+
+#: wpc-ajax-search.php:200
+msgid "Show the search popup when clicking on all search inputs."
+msgstr ""
+"Zobrazení vyskakovacího okna vyhledávání při kliknutí na všechny vstupy "
+"vyhledávání."
+
+#: wpc-ajax-search.php:205
+msgid "Manual show up button"
+msgstr "Tlačítko pro ruční zobrazení"
+
+#: wpc-ajax-search.php:209
+msgid "button class or id"
+msgstr "class nebo ID tlačítka"
+
+#: wpc-ajax-search.php:211
+msgid ""
+"The class or id of the button, when clicking to this button the search popup "
+"will show up. Example %s or %s"
+msgstr ""
+"Class nebo ID tlačítka, po kliknutí na toto tlačítko se zobrazí vyskakovací "
+"okno pro vyhledávání. Příklad %s nebo %s"
+
+#: wpc-ajax-search.php:216
+msgid "Overlay layer"
+msgstr "Vrstva překrytí"
+
+#: wpc-ajax-search.php:221 wpc-ajax-search.php:293
+msgid "Show"
+msgstr "Zobrazit"
+
+#: wpc-ajax-search.php:225 wpc-ajax-search.php:297
+msgid "Hide"
+msgstr "Skrýt"
+
+#: wpc-ajax-search.php:229
+msgid ""
+"If you hide the overlay layer, the buyer still can work on your site when "
+"the search popup is opening."
+msgstr ""
+"Pokud překryvnou vrstvu skryjete, může kupující pracovat na vašem webu i při "
+"otevření vyskakovacího okna vyhledávání."
+
+#: wpc-ajax-search.php:234
+msgid "Position"
+msgstr "Umístění"
+
+#: wpc-ajax-search.php:239
+msgid "Right"
+msgstr "Vpravo"
+
+#: wpc-ajax-search.php:243
+msgid "Left"
+msgstr "Vlevo"
+
+#: wpc-ajax-search.php:247
+msgid "Top"
+msgstr "Nahoře"
+
+#: wpc-ajax-search.php:251
+msgid "Bottom"
+msgstr "Dole"
+
+#: wpc-ajax-search.php:255
+msgid "Center"
+msgstr "Střed"
+
+#: wpc-ajax-search.php:261
+msgid "Effect"
+msgstr "Efekt"
+
+#: wpc-ajax-search.php:274
+msgid "Enable/disable slide effect."
+msgstr "Povolení/zakázání posuvného efektu."
+
+#: wpc-ajax-search.php:279
+msgid "Heading"
+msgstr "Záhlaví"
+
+#: wpc-ajax-search.php:283 wpc-ajax-search.php:444 wpc-ajax-search.php:777 
+#: wpc-ajax-search.php:839
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: wpc-ajax-search.php:284
+msgid "Leave blank to use the default text and can be translated."
+msgstr "Nechte prázdné, chcete-li použít výchozí text, který lze přeložit."
+
+#: wpc-ajax-search.php:288
+msgid "Close button"
+msgstr "Tlačítko zavřít"
+
+#: wpc-ajax-search.php:300
+msgid "Show/hide the close button."
+msgstr "Zobrazení/skrytí tlačítka pro zavření."
+
+#: wpc-ajax-search.php:304
+msgid "Link to individual product"
+msgstr "Odkaz na jednotlivé produkty"
+
+#: wpc-ajax-search.php:309
+msgid "Yes, open in the same tab"
+msgstr "Ano, otevřít odkaz ve stejném panelu"
+
+#: wpc-ajax-search.php:313
+msgid "Yes, open in the new tab"
+msgstr "Ano, otevřít odkaz na novém panelu"
+
+#: wpc-ajax-search.php:317
+msgid "Yes, open quick view popup"
+msgstr "Ano, otevřít okno rychlého náhledu"
+
+#: wpc-ajax-search.php:329
+msgid "Compare button"
+msgstr "Tlačítko pro porovnání"
+
+#: wpc-ajax-search.php:346
+msgid "Wishlist button"
+msgstr "Tlačítko seznamu přání"
+
+#: wpc-ajax-search.php:363
+msgid "Add to cart button"
+msgstr "Tlačítko přidat do košíku"
+
+#: wpc-ajax-search.php:378
+msgid "Exclude unpurchasable"
+msgstr ""
+"Vyloučit nezakoupitelné\n"
+
+#: wpc-ajax-search.php:384
+msgid "Exclude unpurchasable products from the search result."
+msgstr "Vyloučit nezakoupitelné produkty z výsledků vyhledávání."
+
+#: wpc-ajax-search.php:388
+msgid "Special keywords"
+msgstr "Klíčová slova"
+
+#: wpc-ajax-search.php:393
+msgid "Keyword for on-sale products."
+msgstr "Klíčové slovo pro produkty ve slevě."
+
+#: wpc-ajax-search.php:398
+msgid "Keyword for recent products."
+msgstr "Klíčové slovo pro nedávné produkty."
+
+#: wpc-ajax-search.php:403
+msgid "Keyword for featured products."
+msgstr "Klíčové slovo pro doporučené produkty."
+
+#: wpc-ajax-search.php:408
+msgid "Keyword for popular products."
+msgstr "Klíčové slovo pro oblíbené produkty."
+
+#: wpc-ajax-search.php:413
+msgid "Popular keywords"
+msgstr "Oblíbené"
+
+#: wpc-ajax-search.php:418
+msgid ""
+"Add popular keywords, split by a comma. You also can use above Special "
+"keywords."
+msgstr ""
+"Přidejte oblíbená klíčová slova - oddělujte čárkou. Můžete také použít výše "
+"uvedená klíčová slova."
+
+#: wpc-ajax-search.php:423
+msgid "Menu(s)"
+msgstr "Menu"
+
+#: wpc-ajax-search.php:438
+msgid "Choose the menu(s) you want to add the \"search menu\" at the end."
+msgstr ""
+"Vyberte nabídku (nabídky), na jejíž konec chcete přidat \"vyhledávací menu\"."
+
+#: wpc-ajax-search.php:448
+msgid "Search by category"
+msgstr "Vyhledávání podle kategorie"
+
+#: wpc-ajax-search.php:463
+msgid "Search limit"
+msgstr "Limit pro vyhledávání"
+
+#: wpc-ajax-search.php:471
+msgid "Search by SKU"
+msgstr "Vyhledávání podle SKU"
+
+#: wpc-ajax-search.php:487
+msgid "Cache"
+msgstr "Mezipaměť"
+
+#: wpc-ajax-search.php:491
+msgid "Cache method"
+msgstr "Metoda ukládání do mezipaměti"
+
+#: wpc-ajax-search.php:496
+msgid "File"
+msgstr "Soubor"
+
+#: wpc-ajax-search.php:500
+msgid "Database"
+msgstr "Databáze"
+
+#: wpc-ajax-search.php:510
+msgid "Cache time (hrs)"
+msgstr "Doba uložení do mezipaměti (hod.)"
+
+#: wpc-ajax-search.php:525
+msgid "Cleared!"
+msgstr "Vyčištěno!"
+
+#: wpc-ajax-search.php:528
+msgid "Clear cache"
+msgstr "Vymazat mezipaměť"
+
+#: wpc-ajax-search.php:535
+msgid "Update Options"
+msgstr "Aktualizovat nastavení"
+
+#: wpc-ajax-search.php:708
+msgid "No results found for \"%s\" in \"%s\"."
+msgstr "Pro \"%s\" v \"%s\" nebyly nalezeny žádné výsledky."
+
+#: wpc-ajax-search.php:710
+msgid "No results found for \"%s\"."
+msgstr "Pro \"%s\" nebyly nalezeny žádné výsledky."
+
+#: wpc-ajax-search.php:801
+msgid "All categories"
+msgstr "Vše"
+
+#: wpc-ajax-search.php:812
+msgid "Popular keywords:"
+msgstr "Oblíbené:"
